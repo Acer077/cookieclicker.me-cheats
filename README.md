@@ -1,6 +1,6 @@
 # cookieclicker.me-cheats
 every cookie cheat or most of them :P
-also how to bookmarklets to you browser 
+also how to add bookmarklets to you browser so
 Select Bookmarks > Add Bookmarks.
 A little window will pop up. ...
 Click "Add"
